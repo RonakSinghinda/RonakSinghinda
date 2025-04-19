@@ -29,16 +29,16 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dev.to/h4ck3r" style="text-decoration: none;">
+  <a href="" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://instagram.com/h4ck3r0_official" style="text-decoration: none;">
+  <a href="[https://instagram.com/h4ck3r0_official](https://www.instagram.com/.ronak._17?igsh=MXU1NWR6cnpnMjRm)" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://h4ck3r.me" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/ronaksinghinda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/h4ck3r0" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/ronaksinghinda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -72,23 +72,23 @@
 <h2 align="center">🌐 My Links</h2>
 
 <p align="center">
-  <a href="https://youtube.com/c/h4ck3r0" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
-  <a href="https://h4ck3r.me" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 
-  <a href="https://support.h4ck3r.me" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Support%20Me-007FFF?style=for-the-badge&logo=helpdesk&logoColor=white" />
   </a>
 
-  <a href="https://h4ck3r.me/donation/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Donate-F8B400?style=for-the-badge&logo=ko-fi&logoColor=black" />
   </a>
 
-  <a href="https://www.instagram.com/h4ck3r0_official" target="_blank">
+  <a href="https://www.instagram.com/.ronak._17?igsh=MXU1NWR6cnpnMjRm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -97,8 +97,8 @@
 
 
   <p align="center">
-  <a href="https://github.com/h4ck3r0">
-    <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=ronaksinghinda&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+  <a href="https://github.com/RonakSinghinda">
+    <img title="ronaksnghinda" src="https://github-readme-stats-q2ta.vercel.app/api?username=ronaksinghinda&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
   </a>
 </p>
 
